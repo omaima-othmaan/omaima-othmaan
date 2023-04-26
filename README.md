@@ -19,9 +19,6 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/omaima-mohamed-951a1226a/" target="_blank"><img src="https://img.shields.io/badge/-omaima%20othman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-### 🛠 &nbsp;Tech Stack
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<a href="https://www.facebook.com/in/omaima-mohamed-951a1226a/" target="_blank"><img src="https://img.shields.io/badge/-omaima%20othman-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 
